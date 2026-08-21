@@ -1,0 +1,13 @@
+initial_angle,controller,recovery_time_ms
+5,PD,1665.0
+5,Predict,645.0
+5,Dynamic,640.0
+10,PD,1785.0000000000002
+10,Predict,1680.0
+10,Dynamic,1670.0
+15,PD,2925.0000000000005
+15,Predict,1780.0
+15,Dynamic,1770.0
+20,PD,2970.0
+20,Predict,1835.0
+20,Dynamic,1820.0
